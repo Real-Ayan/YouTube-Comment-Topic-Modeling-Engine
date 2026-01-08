@@ -1,0 +1,4 @@
+langchain-mongodb
+pymongo
+pydantic
+pydantic-settings
